@@ -58,9 +58,10 @@ https://en.wikipedia.org/wiki/OpenQASM <---- proalby best...
 It's probably better on Azure. IBM..or Google Cloud(Programmable hardware quantum computer...),
 
 
+
 ### Quantum System with Physics 
 
-
+(or go to some university and ...)
 
 ============================================================================
 
