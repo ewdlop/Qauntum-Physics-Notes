@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Spherical_harmonics
 Linear Algebra:
 
 
-###
+### Interpretation Of Quantum Mechanics
 
 https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics#Comparisons
 
@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics
 
 https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat
 
-## Standard Textbook approach apparently
+### Standard Textbook approach apparently
 
 https://en.wikipedia.org/wiki/Copenhagen_interpretation
 
@@ -65,6 +65,10 @@ It's probably better on Azure. IBM..or Google Cloud(Programmable hardware quantu
 ### Quantum System with Physics 
 
 (or go to some university and ...)
+=======================================================================
+## Computation in general
+
+https://en.wikipedia.org/wiki/Quantum_Turing_machine
 
 ============================================================================
 
@@ -88,4 +92,4 @@ https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_
 
 ## Recitation
 
-High school..
+High school...
