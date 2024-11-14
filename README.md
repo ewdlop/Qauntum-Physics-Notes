@@ -18,11 +18,18 @@ https://en.wikipedia.org/wiki/Hamiltonian_simulation#:~:text=Hamiltonian%20simul
 
 https://en.wikipedia.org/wiki/Quantum_simulator
 
-## Mathematical Simulations
+## Mathematical Simulations(debatable？)
+
+##
+
 
 ## Physical Realzations....
 
 https://en.wikipedia.org/wiki/Trapped-ion_quantum_computer
 
-# 
+# Classical Computer Simulating Quantum System...
+
+
+# Quantum Computing "Classical Computer" Language Interfaces....
+
 
