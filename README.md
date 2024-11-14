@@ -2,10 +2,16 @@
 
 WARNING: NOT FOR THE WOKE GENERATIONS. ~~Turning math and matlab into METHLAB~~
 
+
 ##  Interpretation Of Quantum Mechanics vs Quantum Field Theory vs Quantum Computation and Quantum Information vs (just Mathematics)
 
 
 ## Mathematics Prequitsite(s)...
+
+Calculus:
+https://en.wikipedia.org/wiki/Spherical_harmonics
+
+Linear Algebra:
 
 
 ###
@@ -28,6 +34,11 @@ https://en.wikipedia.org/wiki/Quantum_simulator
 
 ## Pure Mathematical Simulations(debatable？)
 
+anti-sitter-space vs sitter-space simulation
+
+the names
+
+https://en.wikipedia.org/wiki/FRW/CFT_duality
 
 
 ## Mixing with TQFT
@@ -65,7 +76,7 @@ It's probably better on Azure. IBM..or Google Cloud(Programmable hardware quantu
 
 ============================================================================
 
-# Orbrital vs Bonding/ atomic theory/ Quantum Chemistry/
+# Orbrital vs Bonding/ Atomic theory/ Quantum Chemistry/
 
 yes, the famous electron cloud back in chemistry class in high school!
 
@@ -81,3 +92,8 @@ https://en.wikipedia.org/wiki/Spherical_harmonics
 # Condense Matter//"Research" Science
 
 https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software
+
+
+## Recitation
+
+High school..
