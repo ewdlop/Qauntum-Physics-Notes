@@ -32,14 +32,6 @@ https://en.wikipedia.org/wiki/Hamiltonian_simulation#:~:text=Hamiltonian%20simul
 
 https://en.wikipedia.org/wiki/Quantum_simulator
 
-## Pure Mathematical Simulations(debatable？)
-
-anti-sitter-space vs sitter-space simulation
-
-the names
-
-https://en.wikipedia.org/wiki/FRW/CFT_duality
-
 
 ## Mixing with TQFT
 
