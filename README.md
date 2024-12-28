@@ -1,3 +1,10 @@
+# Uncertainity Principle
+
+Excitations, Quasi-particles, and Cosmology
+
+particles life, interaction time, and the big bang
+
+
 # Qauntum-Physics-Notes
 
 WARNING: NOT FOR THE WOKE GENERATIONS. ~~Turning math and matlab into METHLAB~~
