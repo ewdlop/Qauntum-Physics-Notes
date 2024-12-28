@@ -1,3 +1,5 @@
+# The more certian about one subject the more you uncertian about another subject.
+
 # Uncertainity Principle
 
 Excitations, Quasi-particles, and Cosmology
